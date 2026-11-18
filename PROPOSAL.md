@@ -86,7 +86,7 @@ notebooks; I have not tested Colab.
   provided sample circuit, and report cost changes only for circuits I
   can build and verify.
 
-# Use of LLMs {#use-of-llms .unnumbered}
+# Use of LLMs 
 
 An LLM helped me understand the code and plan this project, and the
 agent itself calls an LLM at run time. All results come from my own
